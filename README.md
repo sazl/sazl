@@ -6,11 +6,11 @@
 <hr>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazl&layout=compact&theme=dracula&show_icons=true&count_private=true" align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sazl&layout=compact&theme=dracula&show_icons=true&count_private=true" align="center">
 </a>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazl&layout=compact&count_private=true&theme=dracula&langs_count=8&hide=c%2B%2B,c,matlab,m,html,shell,makefile" align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sazl&layout=compact&count_private=true&theme=dracula&langs_count=8&hide=c%2B%2B,c,matlab,m,html,shell,makefile" align="center">
 </a>
 
 
